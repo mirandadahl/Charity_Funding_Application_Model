@@ -1,6 +1,6 @@
 # deep-learning-challenge
 
-Analysis
+Analysis:
 
 The purpose of this analysis was to develop a predictive model that can determine whether applicants for charitable organizations are likely to have their funding applications approved or denied. 
 
