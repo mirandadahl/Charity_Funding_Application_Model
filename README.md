@@ -1,4 +1,4 @@
-# deep-learning-challenge
+# Charity Funding Application Model
 
 Analysis:
 
